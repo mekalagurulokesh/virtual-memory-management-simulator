@@ -1,0 +1,24 @@
+// Simulation Starts
+Page NULL replaced by Page 87
+Page NULL replaced by Page 86
+Page NULL replaced by Page 146
+Page NULL replaced by Page 195
+Page NULL replaced by Page 48
+Page 87 replaced by Page 24
+Page 87 was not dirty
+Page 86 replaced by Page 143
+Page 86 was dirty
+Page 146 replaced by Page 86
+Page 146 was not dirty
+Page 195 replaced by Page 19
+Page 195 was dirty
+Page 48 replaced by Page 1
+Page 48 was dirty
+Page 86 replaced by Page 246
+Page 86 was not dirty
+// Simulation Ends
+
+// Display Statistics
+Number of memory accesses = 15
+Number of memory accesses that resulted in page faults = 6
+Number of pagees written to disk = 3
